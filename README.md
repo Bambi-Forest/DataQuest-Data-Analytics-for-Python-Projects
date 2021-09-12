@@ -38,3 +38,9 @@ Removing rows due to:
 - Remove rows that has comments that are 0
 - Remove rows that do not pertain to ASK HN or Show HN posts
 
+Concepts used:
+- Reformatted and cleaned the data to prepare it for analysis
+- Dates and times
+- Object-oriented programming
+- Working with Strings
+
