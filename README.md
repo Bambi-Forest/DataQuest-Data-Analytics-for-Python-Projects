@@ -19,3 +19,22 @@ Removing rows due to:
 - Duplicate rows
 - Non-English apps
 - Non Free Apps
+
+[Project 2] Guided Project- Exploring Hacker News Posts
+
+This project is where I:
+
+• Analyze the Hacker News with about 300,000 rows.
+- We're particularly interested in titles that begin with Ask HN and Show HN.
+- Ask HN - User submits posts related to asking the Hacker News community a specific question.
+- Show HN -Users sumbit posts to show the Hacker News community a project, product, or just something interesting.
+- Do Ask HN or Show HN receive more comments on average?
+- Do posts created at a certain time receive more comments on average?
+
+Cleaning the data Process:
+
+Removing rows due to:
+- Missing data
+- Remove rows that has comments that are 0
+- Remove rows that do not pertain to ASK HN or Show HN posts
+
