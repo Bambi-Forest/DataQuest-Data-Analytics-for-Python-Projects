@@ -25,6 +25,7 @@ Removing rows due to:
 [Project 2] Guided Project- Exploring Hacker News Posts
 
 [Clink Here to view Exploring Hacker News Posts Project](https://github.com/Bambi-Forest/DataQuest-Data-Analytics-for-Python-Projects/blob/main/Guided%20Project-%20Exploring%20Hacker%20News%20Posts.ipynb)
+
 This project is where I:
 
 • Analyze the Hacker News with about 300,000 rows.
